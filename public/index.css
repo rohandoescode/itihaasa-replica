@@ -1,0 +1,17 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #121212;
+  color: white;
+}
+
+.App-header {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.App h1 {
+  font-size: 2em;
+}
